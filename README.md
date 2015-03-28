@@ -1,0 +1,2 @@
+# ECAMP
+Space Economic Modelling
